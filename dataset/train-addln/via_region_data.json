@@ -1,0 +1,2927 @@
+{
+  "junk30.jpg511879": {
+    "fileref": "",
+    "size": 511879,
+    "filename": "junk30.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 1, 22, 35, 40, 61, 67, 71, 68, 44, 36, 6, 1 ],
+          "all_points_y": [ 463, 456, 455, 448, 443, 454, 466, 480, 482, 492, 497, 463 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 16, 21, 32, 39, 101, 92, 70, 58, 32, 17, 16 ],
+          "all_points_y": [ 538, 546, 543, 545, 518, 496, 504, 516, 514, 532, 538 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 98, 102, 139, 172, 162, 117, 98 ],
+          "all_points_y": [ 482, 494, 497, 479, 457, 467, 482 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 153, 165, 197, 245, 234, 187, 153 ],
+          "all_points_y": [ 415, 440, 431, 403, 393, 402, 415 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 183, 198, 249, 259, 242, 203, 183 ],
+          "all_points_y": [ 339, 328, 348, 363, 379, 367, 339 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "5": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 228, 261, 271, 282, 280, 259, 228 ],
+          "all_points_y": [ 290, 367, 371, 370, 341, 281, 290 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "6": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 248, 264, 283, 252, 248 ],
+          "all_points_y": [ 379, 377, 433, 434, 379 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "7": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 165, 165, 259, 260, 216, 174, 165 ],
+          "all_points_y": [ 505, 473, 487, 501, 509, 514, 505 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "8": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 263, 260, 182, 182, 218, 263 ],
+          "all_points_y": [ 471, 482, 476, 461, 462, 471 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "9": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 276, 276, 218, 195, 189, 203, 250, 276 ],
+          "all_points_y": [ 459, 436, 434, 446, 455, 461, 464, 459 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "10": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 5, 8, 25, 107, 112, 109, 84, 21, 5 ],
+          "all_points_y": [ 738, 724, 716, 720, 738, 748, 758, 752, 738 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "11": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 66, 56, 64, 137, 152, 161, 149, 66 ],
+          "all_points_y": [ 770, 789, 796, 823, 823, 791, 782, 770 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "12": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 184, 192, 212, 243, 294, 277, 216, 201, 184 ],
+          "all_points_y": [ 832, 847, 839, 843, 818, 788, 813, 826, 832 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "13": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 132, 174, 193, 184, 170, 132 ],
+          "all_points_y": [ 762, 771, 712, 671, 670, 762 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "14": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 40, 61, 106, 121, 117, 93, 51, 41, 40 ],
+          "all_points_y": [ 678, 690, 690, 684, 660, 656, 657, 671, 678 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "15": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 213, 187, 195, 204, 225, 215, 227, 213 ],
+          "all_points_y": [ 664, 669, 725, 747, 746, 730, 712, 664 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "16": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 299, 307, 307, 239, 221, 219, 237, 299 ],
+          "all_points_y": [ 748, 739, 721, 716, 724, 733, 747, 748 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "17": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 188, 187, 195, 249, 294, 291, 244, 188 ],
+          "all_points_y": [ 771, 785, 796, 788, 767, 750, 748, 771 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "18": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 288, 302, 326, 353, 330, 315, 288 ],
+          "all_points_y": [ 796, 803, 784, 714, 701, 709, 796 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "19": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 373, 389, 470, 481, 477, 400, 373 ],
+          "all_points_y": [ 783, 754, 797, 826, 832, 809, 783 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "20": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 370, 391, 409, 465, 492, 484, 446, 370 ],
+          "all_points_y": [ 705, 678, 687, 739, 771, 788, 776, 705 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "21": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 243, 253, 301, 362, 347, 339, 244, 244, 243 ],
+          "all_points_y": [ 678, 691, 670, 603, 576, 576, 667, 672, 678 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "22": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 172, 181, 228, 249, 252, 239, 172 ],
+          "all_points_y": [ 639, 623, 642, 652, 664, 682, 639 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "23": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 108, 119, 180, 193, 185, 151, 108 ],
+          "all_points_y": [ 540, 524, 546, 558, 575, 571, 540 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "24": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 117, 124, 161, 208, 218, 201, 114, 117 ],
+          "all_points_y": [ 510, 502, 504, 520, 522, 552, 516, 510 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "25": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 195, 207, 234, 253, 228, 220, 195 ],
+          "all_points_y": [ 572, 577, 552, 518, 507, 509, 572 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "26": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 264, 274, 272, 254, 239, 234, 264 ],
+          "all_points_y": [ 592, 586, 557, 523, 529, 539, 592 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "27": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 295, 272, 260, 253, 264, 275, 295 ],
+          "all_points_y": [ 555, 561, 527, 505, 491, 493, 555 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "28": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 327, 310, 290, 268, 264, 276, 290, 324, 329, 324, 324, 318, 325, 327 ],
+          "all_points_y": [ 527, 541, 526, 489, 474, 472, 480, 520, 533, 537, 533, 537, 534, 527 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "29": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 351, 359, 328, 318, 305, 294, 295, 320, 336, 351 ],
+          "all_points_y": [ 523, 494, 415, 411, 413, 420, 432, 501, 526, 523 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "30": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 273, 280, 291, 295, 307, 304, 294, 272, 267, 268, 271, 273 ],
+          "all_points_y": [ 315, 317, 310, 310, 277, 261, 258, 287, 299, 310, 310, 315 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "31": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 288, 283, 281, 287, 294, 301, 306, 313, 309, 296, 288 ],
+          "all_points_y": [ 421, 421, 411, 357, 350, 350, 357, 368, 406, 418, 421 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "32": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 321, 287, 274, 290, 315, 326, 325, 321 ],
+          "all_points_y": [ 353, 340, 319, 310, 321, 339, 347, 353 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "33": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 341, 364, 379, 386, 379, 365, 345, 341 ],
+          "all_points_y": [ 435, 440, 447, 457, 470, 471, 458, 435 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "34": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 253, 264, 288, 298, 306, 284, 274, 261, 253 ],
+          "all_points_y": [ 641, 642, 626, 594, 571, 568, 573, 610, 641 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "35": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 282, 275, 309, 345, 358, 367, 371, 368, 342, 313, 282 ],
+          "all_points_y": [ 697, 680, 659, 640, 633, 645, 655, 666, 676, 689, 697 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "36": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 494, 496, 516, 530, 586, 580, 539, 507, 494 ],
+          "all_points_y": [ 800, 788, 788, 782, 788, 815, 816, 808, 800 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "37": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 477, 480, 482, 500, 508, 525, 527, 507, 494, 487, 477 ],
+          "all_points_y": [ 687, 713, 739, 774, 777, 774, 752, 708, 689, 680, 687 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "38": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 540, 543, 579, 618, 690, 676, 580, 540 ],
+          "all_points_y": [ 761, 781, 783, 789, 762, 713, 736, 761 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "39": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 586, 591, 648, 682, 682, 645, 586 ],
+          "all_points_y": [ 678, 706, 702, 687, 676, 670, 678 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "40": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 465, 466, 408, 402, 389, 386, 420, 465 ],
+          "all_points_y": [ 705, 687, 655, 655, 667, 678, 695, 705 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "41": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 379, 390, 395, 398, 394, 382, 364, 356, 363, 366, 379 ],
+          "all_points_y": [ 667, 669, 653, 628, 593, 590, 594, 601, 622, 644, 667 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "42": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 364, 378, 379, 380, 379, 364, 356, 352, 350, 364 ],
+          "all_points_y": [ 564, 567, 541, 505, 482, 482, 484, 502, 529, 564 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "43": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 298, 307, 344, 356, 334, 321, 301, 299, 298 ],
+          "all_points_y": [ 599, 606, 573, 552, 533, 535, 562, 578, 599 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "44": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 371, 379, 375, 355, 333, 319, 351, 371 ],
+          "all_points_y": [ 402, 391, 371, 347, 336, 349, 394, 402 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "45": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 364, 356, 336, 328, 344, 355, 366, 364 ],
+          "all_points_y": [ 347, 349, 333, 315, 311, 320, 337, 347 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "46": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 390, 397, 405, 393, 387, 364, 363, 372, 390 ],
+          "all_points_y": [ 375, 373, 345, 298, 290, 290, 298, 345, 375 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "47": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 396, 391, 366, 324, 325, 333, 360, 393, 393, 393, 390, 396 ],
+          "all_points_y": [ 281, 284, 289, 273, 258, 256, 261, 279, 283, 280, 283, 281 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "48": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 400, 402, 349, 318, 319, 330, 366, 389, 400 ],
+          "all_points_y": [ 229, 243, 260, 254, 235, 229, 228, 228, 229 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "49": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 408, 427, 423, 413, 397, 404, 408 ],
+          "all_points_y": [ 303, 298, 273, 260, 266, 294, 303 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "50": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 402, 472, 508, 529, 546, 543, 507, 423, 410, 398, 402 ],
+          "all_points_y": [ 654, 674, 678, 674, 674, 653, 638, 610, 611, 647, 654 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "51": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 417, 413, 454, 493, 505, 500, 417 ],
+          "all_points_y": [ 586, 609, 621, 623, 622, 604, 586 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "52": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 373, 377, 448, 449, 373 ],
+          "all_points_y": [ 568, 546, 547, 565, 568 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "53": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 393, 391, 413, 463, 470, 403, 393 ],
+          "all_points_y": [ 472, 496, 503, 497, 485, 467, 472 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "54": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 321, 344, 370, 385, 386, 330, 318, 321 ],
+          "all_points_y": [ 394, 423, 441, 431, 411, 382, 382, 394 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "55": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 393, 413, 439, 457, 448, 435, 404, 378, 383, 393 ],
+          "all_points_y": [ 425, 418, 394, 386, 377, 375, 385, 397, 417, 425 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "56": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 395, 425, 439, 420, 398, 387, 395 ],
+          "all_points_y": [ 386, 378, 356, 343, 363, 382, 386 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "57": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 409, 423, 455, 477, 491, 479, 481, 441, 424, 410, 409 ],
+          "all_points_y": [ 341, 317, 279, 269, 275, 286, 309, 345, 342, 349, 341 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "58": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 474, 487, 545, 564, 586, 599, 595, 580, 565, 493, 476, 474 ],
+          "all_points_y": [ 317, 347, 342, 334, 311, 307, 283, 286, 269, 277, 286, 317 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "59": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 626, 629, 654, 690, 725, 754, 759, 742, 708, 678, 639, 626 ],
+          "all_points_y": [ 655, 670, 667, 667, 651, 639, 616, 595, 604, 621, 647, 655 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "60": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 581, 591, 625, 655, 655, 644, 603, 581 ],
+          "all_points_y": [ 577, 587, 579, 564, 543, 538, 562, 577 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "61": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 575, 581, 594, 634, 647, 651, 646, 638, 608, 575 ],
+          "all_points_y": [ 549, 563, 568, 543, 531, 517, 517, 515, 519, 549 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "62": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 555, 563, 592, 631, 640, 636, 596, 555 ],
+          "all_points_y": [ 507, 532, 529, 510, 497, 489, 493, 507 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "63": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 572, 580, 579, 561, 545, 534, 546, 572 ],
+          "all_points_y": [ 609, 604, 586, 527, 527, 534, 583, 609 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "64": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 509, 481, 489, 511, 520, 509 ],
+          "all_points_y": [ 545, 541, 504, 480, 482, 545 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "65": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 565, 576, 543, 522, 509, 534, 565 ],
+          "all_points_y": [ 481, 489, 527, 547, 529, 499, 481 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "66": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 485, 459, 419, 421, 453, 484, 486, 485 ],
+          "all_points_y": [ 583, 592, 588, 569, 563, 569, 577, 583 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "67": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 476, 472, 448, 390, 383, 390, 436, 461, 476 ],
+          "all_points_y": [ 529, 543, 543, 545, 525, 514, 518, 530, 529 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "68": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 471, 472, 457, 428, 394, 395, 443, 471 ],
+          "all_points_y": [ 494, 505, 512, 517, 515, 504, 493, 494 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "69": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 434, 434, 454, 479, 505, 502, 462, 434 ],
+          "all_points_y": [ 463, 470, 476, 474, 462, 444, 451, 463 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "70": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 470, 457, 425, 402, 405, 429, 470 ],
+          "all_points_y": [ 432, 453, 450, 439, 429, 426, 432 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "71": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 457, 427, 451, 471, 480, 471, 457 ],
+          "all_points_y": [ 379, 370, 328, 313, 321, 356, 379 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "72": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 518, 509, 496, 505, 523, 529, 518 ],
+          "all_points_y": [ 461, 459, 441, 410, 410, 428, 461 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "73": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 542, 537, 549, 639, 656, 588, 542 ],
+          "all_points_y": [ 473, 457, 413, 394, 449, 470, 473 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "74": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 666, 675, 724, 767, 766, 745, 690, 666 ],
+          "all_points_y": [ 573, 604, 595, 575, 556, 550, 565, 573 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "75": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 704, 713, 752, 765, 765, 756, 742, 704 ],
+          "all_points_y": [ 540, 545, 527, 509, 497, 491, 499, 540 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "76": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 677, 656, 649, 678, 709, 718, 687, 677 ],
+          "all_points_y": [ 537, 539, 527, 508, 495, 514, 539, 537 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "77": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 667, 669, 671, 701, 724, 740, 737, 701, 667 ],
+          "all_points_y": [ 480, 497, 507, 499, 494, 486, 478, 476, 480 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "78": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 621, 619, 631, 667, 689, 684, 621 ],
+          "all_points_y": [ 467, 485, 487, 486, 471, 461, 467 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "79": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 553, 555, 576, 634, 661, 661, 584, 553 ],
+          "all_points_y": [ 353, 366, 371, 366, 359, 328, 341, 353 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "80": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 485, 510, 552, 558, 517, 485, 480, 485 ],
+          "all_points_y": [ 371, 385, 390, 371, 360, 359, 366, 371 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "81": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 564, 532, 493, 492, 557, 571, 564 ],
+          "all_points_y": [ 344, 360, 364, 350, 327, 344, 344 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "82": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 501, 497, 532, 546, 552, 501 ],
+          "all_points_y": [ 381, 402, 418, 417, 394, 381 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "83": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 645, 648, 669, 721, 714, 660, 645 ],
+          "all_points_y": [ 405, 417, 420, 406, 379, 395, 405 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "84": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 666, 684, 691, 700, 694, 685, 666, 666 ],
+          "all_points_y": [ 379, 382, 356, 329, 319, 321, 366, 379 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "85": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 480, 492, 522, 560, 578, 563, 524, 485, 480 ],
+          "all_points_y": [ 220, 200, 214, 235, 248, 259, 253, 229, 220 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "86": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 598, 575, 567, 585, 594, 599, 598 ],
+          "all_points_y": [ 242, 241, 214, 192, 200, 229, 242 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "87": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 602, 606, 644, 672, 625, 602, 602 ],
+          "all_points_y": [ 180, 206, 250, 241, 176, 173, 180 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "88": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 659, 661, 686, 720, 721, 708, 671, 659 ],
+          "all_points_y": [ 203, 197, 203, 218, 228, 235, 218, 203 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "89": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 666, 674, 736, 744, 730, 679, 678, 672, 672, 666 ],
+          "all_points_y": [ 175, 184, 172, 158, 140, 175, 180, 175, 181, 175 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "90": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 610, 622, 680, 684, 647, 610 ],
+          "all_points_y": [ 328, 318, 306, 321, 329, 328 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "91": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 656, 664, 717, 739, 752, 743, 689, 656 ],
+          "all_points_y": [ 289, 305, 287, 284, 263, 250, 266, 289 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "92": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 644, 659, 695, 713, 699, 647, 644 ],
+          "all_points_y": [ 260, 276, 259, 236, 229, 250, 260 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "93": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 716, 725, 720, 695, 694, 708, 716 ],
+          "all_points_y": [ 356, 353, 302, 302, 327, 362, 356 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "94": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 666, 690, 717, 732, 721, 701, 678, 666 ],
+          "all_points_y": [ 427, 416, 443, 467, 473, 464, 444, 427 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "95": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 706, 721, 762, 766, 738, 712, 706 ],
+          "all_points_y": [ 424, 410, 402, 423, 431, 433, 424 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "96": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 725, 721, 762, 767, 725 ],
+          "all_points_y": [ 451, 434, 426, 451, 451 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "97": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 737, 724, 728, 765, 763, 737 ],
+          "all_points_y": [ 473, 471, 454, 454, 473, 473 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "98": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 766, 766, 714, 687, 689, 678, 755, 768, 766 ],
+          "all_points_y": [ 168, 189, 206, 201, 191, 180, 162, 162, 168 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk31.jpg10504": {
+    "fileref": "",
+    "size": 10504,
+    "filename": "junk31.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 87, 87, 102, 122, 147, 156, 156, 154, 146, 135, 115, 92, 87 ],
+          "all_points_y": [ 72, 82, 84, 87, 84, 81, 75, 70, 72, 67, 64, 67, 72 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 172, 176, 192, 207, 234, 247, 253, 264, 264, 256, 246, 195, 172 ],
+          "all_points_y": [ 82, 94, 91, 99, 98, 99, 91, 87, 79, 78, 71, 77, 82 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 179, 179, 206, 225, 241, 247, 253, 256, 249, 247, 184, 179 ],
+          "all_points_y": [ 74, 68, 62, 58, 55, 59, 56, 64, 67, 70, 79, 74 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk29.jpg108344": {
+    "fileref": "",
+    "size": 108344,
+    "filename": "junk29.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 67, 91, 116, 125, 181, 306, 356, 371, 388, 410, 429, 436, 423, 410, 380, 345, 307, 242, 88, 67 ],
+          "all_points_y": [ 525, 464, 442, 438, 455, 507, 524, 548, 540, 544, 572, 572, 606, 606, 613, 602, 606, 591, 544, 525 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 69, 26, 0, 4, 22, 82, 151, 179, 281, 276, 291, 266, 244, 147, 121, 69 ],
+          "all_points_y": [ 531, 524, 525, 620, 639, 635, 606, 581, 488, 415, 393, 382, 399, 440, 511, 531 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 585, 587, 606, 645, 686, 736, 745, 725, 661, 645, 624, 598, 585 ],
+          "all_points_y": [ 462, 486, 496, 494, 509, 492, 447, 443, 445, 455, 451, 455, 462 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk27.jpg11170": {
+    "fileref": "",
+    "size": 11170,
+    "filename": "junk27.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 1, 11, 26, 38, 41, 49, 48, 34, 22, 16, 2, 1 ],
+          "all_points_y": [ 144, 148, 148, 142, 139, 129, 123, 117, 120, 128, 129, 144 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 41, 59, 69, 80, 86, 96, 86, 72, 65, 55, 49, 41, 41 ],
+          "all_points_y": [ 146, 144, 131, 131, 136, 124, 110, 105, 106, 117, 127, 140, 146 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 83, 95, 104, 112, 118, 115, 107, 98, 88, 83, 83 ],
+          "all_points_y": [ 144, 147, 147, 139, 139, 127, 124, 126, 135, 135, 144 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 118, 123, 130, 144, 156, 163, 159, 149, 139, 135, 121, 118 ],
+          "all_points_y": [ 136, 140, 141, 139, 136, 124, 109, 100, 99, 103, 116, 136 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 163, 175, 189, 202, 211, 209, 201, 191, 177, 169, 164, 161, 163 ],
+          "all_points_y": [ 125, 141, 148, 151, 144, 131, 122, 109, 104, 101, 106, 117, 125 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "5": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 230, 219, 216, 210, 210, 197, 206, 214, 220, 227, 234, 230 ],
+          "all_points_y": [ 150, 149, 146, 134, 128, 118, 112, 113, 116, 125, 136, 150 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "6": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 260, 243, 232, 224, 239, 248, 260, 264, 260 ],
+          "all_points_y": [ 146, 149, 129, 118, 107, 107, 113, 128, 146 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "7": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 287, 267, 274, 284, 289, 287 ],
+          "all_points_y": [ 146, 127, 117, 117, 123, 146 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk25.jpg171790": {
+    "fileref": "",
+    "size": 171790,
+    "filename": "junk25.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 0, 45, 117, 263, 257, 238, 187, 12, 6, 2, 0 ],
+          "all_points_y": [ 671, 653, 649, 505, 454, 435, 423, 530, 591, 596, 671 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 261, 267, 279, 304, 316, 294, 277, 269, 261 ],
+          "all_points_y": [ 439, 454, 454, 433, 384, 372, 376, 407, 439 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 109, 119, 136, 170, 197, 172, 140, 109 ],
+          "all_points_y": [ 415, 435, 439, 425, 392, 378, 390, 415 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 2, 27, 51, 55, 21, 0, 2 ],
+          "all_points_y": [ 419, 419, 423, 444, 472, 483, 419 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 327, 333, 396, 419, 448, 448, 415, 382, 345, 327 ],
+          "all_points_y": [ 458, 419, 310, 310, 324, 345, 396, 452, 464, 458 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "5": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 402, 400, 429, 546, 575, 723, 750, 768, 768, 741, 661, 606, 528, 493, 402 ],
+          "all_points_y": [ 493, 448, 419, 468, 464, 522, 556, 563, 645, 632, 641, 614, 569, 538, 493 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "6": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 719, 717, 688, 647, 575, 550, 468, 478, 577, 692, 719 ],
+          "all_points_y": [ 429, 491, 495, 489, 462, 464, 433, 419, 405, 413, 429 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk26.jpg10563": {
+    "fileref": "",
+    "size": 10563,
+    "filename": "junk26.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 21, 20, 31, 40, 55, 80, 85, 84, 80, 58, 46, 37, 38, 39, 21 ],
+          "all_points_y": [ 120, 101, 93, 90, 91, 103, 112, 119, 122, 116, 113, 118, 126, 132, 120 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 39, 59, 97, 127, 137, 126, 120, 68, 46, 42, 40, 39 ],
+          "all_points_y": [ 139, 147, 167, 166, 158, 149, 136, 120, 116, 117, 127, 139 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 125, 121, 123, 134, 161, 174, 192, 209, 218, 216, 204, 197, 186, 171, 143, 125 ],
+          "all_points_y": [ 106, 113, 131, 134, 129, 123, 127, 118, 117, 106, 106, 102, 104, 108, 104, 106 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 210, 213, 222, 236, 254, 261, 270, 271, 275, 270, 267, 261, 252, 240, 213, 210, 208, 210 ],
+          "all_points_y": [ 131, 137, 136, 131, 127, 127, 124, 117, 114, 103, 105, 103, 105, 110, 119, 119, 124, 131 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 221, 220, 230, 232, 252, 264, 275, 278, 287, 284, 282, 253, 227, 221 ],
+          "all_points_y": [ 90, 96, 99, 103, 103, 102, 105, 112, 112, 100, 92, 90, 89, 90 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "5": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 99, 91, 91, 98, 118, 124, 124, 114, 105, 101, 99 ],
+          "all_points_y": [ 116, 113, 104, 97, 97, 100, 105, 105, 104, 111, 116 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk24.jpg52422": {
+    "fileref": "",
+    "size": 52422,
+    "filename": "junk24.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 390, 406, 451, 475, 481, 486, 489, 480, 469, 454, 408, 390, 389, 390 ],
+          "all_points_y": [ 222, 220, 228, 233, 237, 237, 246, 256, 259, 262, 253, 252, 235, 222 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 483, 488, 507, 543, 552, 557, 573, 583, 586, 598, 599, 596, 586, 578, 562, 542, 508, 483 ],
+          "all_points_y": [ 309, 295, 295, 303, 306, 308, 308, 315, 321, 322, 330, 334, 332, 337, 339, 330, 330, 309 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 300, 306, 319, 322, 326, 319, 307, 298, 298, 300 ],
+          "all_points_y": [ 211, 214, 214, 210, 195, 184, 183, 183, 193, 211 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 257, 268, 282, 291, 283, 267, 258, 257 ],
+          "all_points_y": [ 119, 129, 130, 131, 112, 102, 108, 119 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 350, 356, 374, 387, 381, 372, 358, 350 ],
+          "all_points_y": [ 179, 171, 171, 176, 185, 200, 200, 179 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "5": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 428, 432, 461, 463, 457, 437, 428 ],
+          "all_points_y": [ 180, 170, 173, 183, 191, 188, 180 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk22.jpg318805": {
+    "fileref": "",
+    "size": 318805,
+    "filename": "junk22.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 572, 583, 609, 650, 696, 788, 898, 941, 941, 927, 875, 855, 808, 762, 754, 751, 690, 647, 609, 572 ],
+          "all_points_y": [ 707, 681, 681, 670, 670, 702, 725, 739, 768, 774, 748, 754, 742, 742, 759, 768, 759, 759, 733, 707 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 323, 309, 321, 338, 419, 462, 479, 476, 448, 439, 430, 370, 323 ],
+          "all_points_y": [ 901, 889, 858, 832, 806, 791, 800, 811, 823, 852, 869, 910, 901 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 491, 476, 468, 491, 505, 528, 580, 647, 722, 757, 757, 748, 679, 658, 638, 569, 528, 491 ],
+          "all_points_y": [ 806, 803, 780, 771, 777, 757, 757, 759, 771, 774, 814, 826, 777, 777, 791, 832, 843, 806 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 1063, 1039, 1011, 993, 1016, 1037, 1071, 1152, 1132, 1112, 1109, 1063 ],
+          "all_points_y": [ 817, 785, 757, 707, 679, 670, 673, 797, 808, 811, 820, 817 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 84, 12, 3, 14, 52, 92, 104, 104, 107, 90, 84 ],
+          "all_points_y": [ 1057, 1045, 924, 875, 860, 866, 881, 927, 976, 1022, 1057 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "5": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 113, 107, 98, 95, 115, 133, 159, 176, 182, 185, 167, 156, 133, 113 ],
+          "all_points_y": [ 866, 846, 826, 806, 803, 785, 791, 803, 829, 869, 884, 895, 872, 866 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "6": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 121, 121, 130, 136, 165, 179, 208, 225, 231, 202, 191, 173, 147, 121 ],
+          "all_points_y": [ 765, 759, 754, 733, 733, 742, 762, 823, 849, 855, 860, 800, 788, 765 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "7": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 130, 124, 121, 130 ],
+          "all_points_y": [ 777, 768, 771, 777 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "8": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 603, 609, 624, 641, 644, 690, 725, 788, 814, 823, 803, 768, 707, 687, 638, 627, 603 ],
+          "all_points_y": [ 629, 641, 638, 644, 647, 638, 638, 621, 601, 580, 563, 560, 572, 586, 595, 615, 629 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "9": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 1138, 1149, 1227, 1268, 1299, 1317, 1320, 1294, 1285, 1250, 1242, 1227, 1210, 1195, 1172, 1152, 1138 ],
+          "all_points_y": [ 742, 696, 603, 586, 592, 612, 635, 661, 681, 699, 722, 736, 725, 722, 722, 733, 742 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "10": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 1299, 1256, 1291, 1334, 1357, 1383, 1299 ],
+          "all_points_y": [ 886, 814, 774, 765, 797, 846, 886 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "11": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 1426, 1501, 1600, 1623, 1646, 1657, 1643, 1588, 1539, 1504, 1478, 1426 ],
+          "all_points_y": [ 852, 817, 780, 788, 826, 866, 884, 869, 869, 875, 889, 852 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "12": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 985, 996, 1037, 1045, 1016, 999, 970, 985, 985 ],
+          "all_points_y": [ 603, 627, 624, 595, 563, 537, 554, 586, 603 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "13": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 1455, 1504, 1530, 1559, 1574, 1562, 1530, 1487, 1458, 1455 ],
+          "all_points_y": [ 670, 655, 655, 653, 673, 693, 693, 707, 705, 670 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk23.jpg62860": {
+    "fileref": "",
+    "size": 62860,
+    "filename": "junk23.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 69, 82, 101, 164, 238, 254, 262, 276, 277, 258, 237, 207, 181, 169, 105, 71, 69 ],
+          "all_points_y": [ 192, 173, 170, 185, 211, 217, 235, 239, 258, 256, 263, 249, 247, 256, 231, 215, 192 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 155, 159, 179, 209, 243, 279, 311, 324, 323, 209, 155 ],
+          "all_points_y": [ 291, 266, 251, 248, 265, 271, 311, 313, 318, 320, 291 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 375, 365, 370, 345, 340, 309, 288, 283, 300, 325, 345, 375 ],
+          "all_points_y": [ 319, 309, 286, 232, 220, 207, 226, 249, 289, 313, 320, 319 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 254, 254, 269, 290, 308, 347, 372, 374, 369, 331, 296, 277, 254 ],
+          "all_points_y": [ 195, 212, 212, 222, 204, 219, 215, 183, 176, 174, 176, 188, 195 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 181, 182, 196, 230, 254, 255, 209, 189, 181 ],
+          "all_points_y": [ 123, 135, 140, 140, 137, 127, 122, 123, 123 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "5": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 298, 292, 291, 290, 295, 305, 318, 327, 328, 324, 324, 312, 304, 298 ],
+          "all_points_y": [ 154, 151, 146, 139, 130, 126, 120, 122, 126, 137, 154, 155, 158, 154 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "6": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 286, 274, 267, 266, 278, 290, 297, 287, 286 ],
+          "all_points_y": [ 142, 142, 133, 122, 119, 120, 124, 134, 142 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "7": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 514, 504, 510, 522, 540, 563, 572, 568, 556, 537, 520, 514 ],
+          "all_points_y": [ 228, 218, 184, 150, 148, 148, 157, 187, 230, 239, 233, 228 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "8": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 505, 512, 516, 524, 559, 572, 575, 582, 584, 580, 546, 539, 536, 521, 505, 505 ],
+          "all_points_y": [ 139, 142, 147, 148, 149, 157, 167, 167, 162, 153, 130, 129, 118, 114, 129, 139 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "9": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 119, 118, 129, 159, 177, 181, 181, 170, 162, 155, 140, 119 ],
+          "all_points_y": [ 130, 117, 116, 116, 116, 126, 134, 131, 133, 135, 134, 130 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "10": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 154, 154, 162, 171, 187, 197, 201, 202, 198, 187, 182, 165, 154 ],
+          "all_points_y": [ 146, 137, 133, 132, 138, 143, 152, 157, 159, 158, 161, 151, 146 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "11": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 154, 170, 182, 194, 204, 210, 212, 194, 195, 189, 175, 154 ],
+          "all_points_y": [ 180, 174, 163, 157, 158, 159, 162, 163, 174, 187, 187, 180 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "12": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 131, 159, 171, 185, 197, 196, 185, 171, 141, 131 ],
+          "all_points_y": [ 111, 100, 83, 87, 98, 110, 113, 115, 115, 111 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "13": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 233, 261, 269, 261, 238, 233 ],
+          "all_points_y": [ 94, 84, 96, 103, 103, 94 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "14": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 295, 296, 314, 337, 337, 319, 295 ],
+          "all_points_y": [ 106, 91, 94, 103, 113, 114, 106 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "15": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 319, 328, 327, 342, 352, 345, 341, 319 ],
+          "all_points_y": [ 160, 137, 120, 116, 119, 136, 149, 160 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "16": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 409, 404, 393, 388, 379, 378, 394, 404, 438, 435, 424, 409 ],
+          "all_points_y": [ 141, 136, 127, 131, 106, 93, 95, 108, 147, 154, 146, 141 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk21.jpg274688": {
+    "fileref": "",
+    "size": 274688,
+    "filename": "junk21.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 329, 333, 383, 425, 531, 541, 545, 510, 502, 472, 470, 443, 410, 329 ],
+          "all_points_y": [ 630, 610, 606, 612, 635, 645, 672, 678, 687, 681, 649, 645, 651, 630 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 312, 310, 323, 345, 470, 468, 427, 402, 362, 335, 312 ],
+          "all_points_y": [ 666, 685, 691, 691, 693, 655, 645, 651, 653, 664, 666 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 707, 716, 733, 755, 785, 803, 816, 814, 793, 770, 753, 741, 716, 707 ],
+          "all_points_y": [ 497, 489, 493, 504, 512, 533, 549, 554, 556, 549, 535, 518, 502, 497 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk17.jpg171824": {
+    "fileref": "",
+    "size": 171824,
+    "filename": "junk17.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 79, 75, 75, 27, 29, 73, 79, 83, 90, 85, 79 ],
+          "all_points_y": [ 353, 352, 352, 369, 387, 373, 373, 360, 360, 351, 353 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 95, 22, 51, 72, 72, 88, 88, 104, 101, 95 ],
+          "all_points_y": [ 387, 414, 414, 415, 413, 410, 413, 395, 386, 387 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 139, 98, 113, 159, 145, 133, 139 ],
+          "all_points_y": [ 402, 455, 467, 413, 398, 405, 402 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 0, 3, 21, 76, 85, 87, 65, 40, 21, 15, 2, 2, 0 ],
+          "all_points_y": [ 415, 415, 415, 418, 425, 425, 435, 433, 436, 427, 432, 434, 415 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 133, 107, 91, 90, 104, 140, 144, 133 ],
+          "all_points_y": [ 375, 391, 407, 419, 423, 393, 374, 375 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "5": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 157, 157, 161, 199, 201, 192, 157 ],
+          "all_points_y": [ 358, 358, 371, 364, 353, 345, 358 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "6": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 195, 195, 212, 210, 213, 202, 195 ],
+          "all_points_y": [ 327, 345, 342, 325, 325, 324, 327 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "7": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 348, 369, 390, 409, 437, 442, 402, 387, 385, 365, 348, 344, 348 ],
+          "all_points_y": [ 499, 481, 481, 466, 462, 484, 497, 489, 499, 508, 509, 499, 499 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "8": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 608, 605, 663, 676, 703, 706, 694, 682, 610, 608 ],
+          "all_points_y": [ 462, 485, 504, 491, 502, 493, 488, 477, 460, 462 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "9": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 648, 654, 664, 709, 718, 701, 648 ],
+          "all_points_y": [ 423, 436, 442, 426, 411, 408, 423 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "10": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 674, 697, 697, 657, 626, 626, 651, 682, 674 ],
+          "all_points_y": [ 409, 405, 405, 399, 406, 411, 418, 408, 409 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "11": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 79, 156, 156, 177, 174, 153, 144, 146, 102, 87, 78, 79 ],
+          "all_points_y": [ 519, 471, 471, 470, 487, 507, 505, 505, 538, 541, 529, 519 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "12": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 163, 149, 153, 155, 172, 184, 175, 163 ],
+          "all_points_y": [ 395, 430, 443, 442, 440, 397, 389, 395 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "13": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 183, 185, 219, 219, 227, 246, 261, 233, 183 ],
+          "all_points_y": [ 388, 407, 403, 402, 396, 398, 382, 377, 388 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "14": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 255, 274, 291, 287, 262, 255 ],
+          "all_points_y": [ 346, 363, 359, 349, 336, 346 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "15": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 220, 221, 235, 236, 256, 233, 224, 220 ],
+          "all_points_y": [ 334, 337, 349, 349, 349, 329, 329, 334 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "16": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 241, 284, 285, 297, 295, 280, 256, 237, 241 ],
+          "all_points_y": [ 402, 374, 374, 376, 387, 400, 412, 414, 402 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "17": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 285, 287, 319, 331, 333, 345, 344, 357, 346, 297, 285 ],
+          "all_points_y": [ 457, 474, 493, 488, 489, 498, 497, 486, 471, 450, 457 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "18": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 357, 357, 358, 369, 378, 377, 370, 357 ],
+          "all_points_y": [ 400, 405, 437, 452, 435, 405, 395, 400 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "19": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 403, 413, 414, 458, 458, 471, 461, 418, 401, 403 ],
+          "all_points_y": [ 416, 408, 407, 403, 401, 410, 425, 436, 430, 416 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "20": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 385, 379, 379, 380, 390, 401, 401, 385 ],
+          "all_points_y": [ 397, 408, 407, 434, 443, 434, 407, 397 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "21": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 176, 177, 187, 255, 231, 184, 176 ],
+          "all_points_y": [ 579, 578, 590, 533, 510, 566, 579 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "22": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 78, 107, 104, 187, 193, 192, 176, 87, 78 ],
+          "all_points_y": [ 558, 544, 544, 548, 557, 552, 581, 576, 558 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "23": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 519, 518, 607, 615, 635, 641, 624, 580, 519 ],
+          "all_points_y": [ 571, 600, 623, 609, 614, 599, 598, 577, 571 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "24": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 616, 616, 621, 622, 637, 654, 644, 628, 616 ],
+          "all_points_y": [ 505, 505, 572, 572, 585, 573, 512, 494, 505 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "25": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 478, 478, 482, 544, 570, 570, 540, 529, 528, 521, 485, 478 ],
+          "all_points_y": [ 482, 480, 499, 501, 488, 483, 473, 476, 476, 472, 475, 482 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "26": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 438, 485, 481, 440, 438 ],
+          "all_points_y": [ 313, 320, 308, 308, 313 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "27": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 177, 178, 170, 171, 186, 204, 201, 205, 198, 208, 203, 203, 188, 177 ],
+          "all_points_y": [ 462, 502, 518, 524, 545, 526, 526, 508, 502, 478, 458, 454, 454, 462 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "28": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 208, 203, 204, 232, 233, 230, 216, 208 ],
+          "all_points_y": [ 469, 529, 535, 511, 510, 466, 461, 469 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "29": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 253, 253, 231, 231, 232, 232, 245, 264, 270, 265, 253 ],
+          "all_points_y": [ 439, 439, 475, 474, 495, 498, 499, 466, 450, 436, 439 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "30": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 220, 230, 287, 288, 274, 220 ],
+          "all_points_y": [ 429, 445, 411, 401, 403, 429 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "31": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 316, 300, 299, 272, 275, 275, 274, 274, 286, 289, 292, 303, 322, 323, 320, 316 ],
+          "all_points_y": [ 386, 392, 393, 427, 427, 435, 437, 437, 437, 424, 426, 424, 397, 386, 386, 386 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "32": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 284, 284, 277, 302, 309, 310, 284 ],
+          "all_points_y": [ 332, 332, 346, 362, 360, 344, 332 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "33": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 299, 310, 312, 325, 332, 309, 299 ],
+          "all_points_y": [ 336, 343, 358, 358, 349, 333, 336 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "34": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 77, 71, 99, 106, 114, 139, 123, 109, 74, 77 ],
+          "all_points_y": [ 335, 347, 357, 352, 359, 352, 341, 339, 335, 335 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "35": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 314, 292, 292, 292, 299, 324, 322, 321, 343, 345, 333, 329, 314 ],
+          "all_points_y": [ 494, 559, 556, 579, 584, 564, 545, 547, 508, 500, 490, 490, 494 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "36": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 703, 700, 715, 791, 788, 808, 808, 724, 703 ],
+          "all_points_y": [ 564, 574, 591, 631, 632, 621, 597, 561, 564 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "37": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 654, 656, 655, 642, 645, 641, 677, 676, 672, 673, 662, 665, 665, 652, 654 ],
+          "all_points_y": [ 558, 574, 573, 583, 595, 663, 663, 664, 602, 577, 564, 555, 555, 556, 558 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "38": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 676, 744, 770, 770, 753, 754, 738, 688, 672, 676 ],
+          "all_points_y": [ 621, 607, 621, 625, 639, 640, 640, 656, 640, 621 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "39": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 655, 651, 661, 662, 713, 726, 726, 745, 738, 707, 655 ],
+          "all_points_y": [ 446, 455, 469, 471, 459, 460, 457, 444, 434, 436, 446 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "40": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 466, 477, 510, 515, 513, 481, 469, 466 ],
+          "all_points_y": [ 384, 394, 408, 399, 388, 375, 376, 384 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "41": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 419, 407, 407, 407, 407, 408, 418, 429, 425, 419 ],
+          "all_points_y": [ 317, 326, 327, 327, 327, 350, 360, 352, 326, 317 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "42": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 6, 2, 1, 2, 2, 16, 28, 23, 6 ],
+          "all_points_y": [ 335, 338, 337, 352, 353, 359, 354, 341, 335 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "43": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 566, 569, 576, 574, 582, 587, 587, 580, 579, 566 ],
+          "all_points_y": [ 369, 405, 414, 414, 415, 394, 398, 368, 368, 369 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "44": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 306, 304, 251, 248, 256, 273, 291, 292, 309, 306 ],
+          "all_points_y": [ 509, 510, 558, 571, 582, 582, 565, 567, 507, 509 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "45": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 398, 360, 389, 403, 398 ],
+          "all_points_y": [ 354, 358, 369, 359, 354 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "46": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 519, 537, 525, 485, 474, 474, 474, 488, 515, 515, 519 ],
+          "all_points_y": [ 397, 392, 379, 359, 367, 367, 372, 375, 387, 387, 397 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "47": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 601, 637, 642, 651, 660, 614, 585, 601 ],
+          "all_points_y": [ 421, 447, 456, 457, 469, 460, 443, 421 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "48": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 563, 564, 592, 593, 597, 588, 571, 559, 563 ],
+          "all_points_y": [ 417, 417, 413, 414, 422, 436, 441, 435, 417 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "49": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 574, 576, 614, 614, 615, 582, 574 ],
+          "all_points_y": [ 488, 505, 514, 490, 488, 481, 488 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "50": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 374, 374, 374, 414, 438, 442, 445, 424, 401, 373, 374 ],
+          "all_points_y": [ 452, 452, 452, 439, 439, 435, 443, 461, 469, 461, 452 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "51": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 315, 315, 353, 356, 355, 355, 329, 323, 315 ],
+          "all_points_y": [ 410, 410, 436, 436, 418, 420, 395, 397, 410 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "52": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 546, 543, 543, 551, 565, 561, 564, 546 ],
+          "all_points_y": [ 365, 392, 401, 410, 403, 403, 369, 365 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "53": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 530, 538, 554, 561, 557, 541, 530 ],
+          "all_points_y": [ 357, 347, 347, 352, 361, 363, 357 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "54": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 725, 709, 708, 708, 723, 742, 743, 725 ],
+          "all_points_y": [ 371, 387, 398, 400, 404, 380, 369, 371 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "55": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 740, 765, 783, 784, 772, 759, 740 ],
+          "all_points_y": [ 431, 426, 431, 446, 450, 450, 431 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "56": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 728, 730, 733, 735, 760, 747, 745, 728 ],
+          "all_points_y": [ 517, 546, 562, 562, 574, 515, 514, 517 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "57": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 501, 497, 506, 506, 521, 538, 559, 560, 526, 518, 509, 501 ],
+          "all_points_y": [ 530, 534, 543, 548, 562, 572, 572, 561, 540, 532, 532, 530 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "58": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 526, 526, 524, 535, 558, 564, 565, 547, 539, 523, 524, 526 ],
+          "all_points_y": [ 511, 513, 510, 543, 555, 548, 531, 511, 501, 510, 514, 511 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "59": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 572, 570, 618, 616, 616, 582, 572 ],
+          "all_points_y": [ 510, 521, 556, 525, 525, 506, 510 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "60": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 276, 285, 291, 286, 267, 264, 263, 272, 273, 276 ],
+          "all_points_y": [ 454, 461, 490, 502, 492, 491, 471, 448, 448, 454 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "61": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 360, 370, 398, 398, 391, 362, 360 ],
+          "all_points_y": [ 463, 459, 468, 470, 480, 484, 463 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "62": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 11, 9, 22, 65, 104, 108, 96, 92, 74, 11 ],
+          "all_points_y": [ 444, 464, 471, 477, 470, 467, 455, 455, 445, 444 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "63": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 738, 733, 757, 772, 846, 862, 871, 745, 732, 738 ],
+          "all_points_y": [ 643, 643, 641, 626, 626, 636, 665, 666, 641, 643 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "64": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 792, 788, 784, 784, 803, 832, 869, 884, 887, 814, 788, 792 ],
+          "all_points_y": [ 455, 456, 461, 465, 488, 492, 516, 519, 491, 461, 452, 455 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "65": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 894, 877, 903, 922, 923, 894 ],
+          "all_points_y": [ 430, 462, 466, 438, 440, 430 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "66": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 883, 873, 881, 880, 916, 935, 928, 883 ],
+          "all_points_y": [ 467, 476, 485, 486, 492, 480, 465, 467 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "67": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 610, 609, 614, 669, 676, 650, 622, 622, 622, 610 ],
+          "all_points_y": [ 404, 399, 386, 392, 399, 398, 405, 405, 409, 404 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "68": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 988, 983, 938, 939, 968, 999, 988 ],
+          "all_points_y": [ 334, 333, 356, 362, 364, 349, 334 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "69": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 925, 926, 972, 971, 925 ],
+          "all_points_y": [ 290, 297, 305, 290, 290 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "70": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 779, 825, 822, 835, 799, 802, 783, 769, 782, 779 ],
+          "all_points_y": [ 369, 342, 342, 354, 380, 379, 390, 374, 370, 369 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "71": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 738, 708, 727, 726, 746, 758, 761, 800, 800, 747, 743, 737, 732, 740, 738 ],
+          "all_points_y": [ 481, 505, 546, 515, 513, 561, 561, 532, 533, 478, 478, 482, 484, 477, 481 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "72": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 809, 874, 886, 875, 820, 815, 776, 809 ],
+          "all_points_y": [ 555, 557, 577, 592, 588, 578, 560, 555 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "73": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 890, 881, 888, 888, 920, 957, 957, 957, 958, 971, 960, 890 ],
+          "all_points_y": [ 513, 520, 526, 541, 570, 575, 575, 575, 589, 586, 562, 513 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "74": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 976, 976, 968, 968, 969, 989, 999, 999, 976 ],
+          "all_points_y": [ 546, 546, 552, 557, 593, 617, 617, 560, 546 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "75": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 455, 482, 481, 476, 466, 443, 443, 455 ],
+          "all_points_y": [ 430, 447, 446, 464, 467, 445, 432, 430 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "76": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 651, 655, 696, 714, 718, 664, 651 ],
+          "all_points_y": [ 340, 347, 351, 362, 343, 335, 340 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "77": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 785, 785, 784, 784, 845, 850, 813, 785 ],
+          "all_points_y": [ 324, 324, 324, 330, 341, 331, 323, 324 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "78": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 848, 871, 872, 885, 885, 886, 842, 843, 848 ],
+          "all_points_y": [ 336, 325, 325, 327, 327, 342, 348, 348, 336 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "79": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 796, 796, 837, 852, 816, 796, 796 ],
+          "all_points_y": [ 386, 386, 358, 371, 394, 391, 386 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "80": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 850, 860, 860, 876, 850, 822, 853, 845, 845, 850 ],
+          "all_points_y": [ 360, 351, 351, 361, 387, 394, 370, 362, 363, 360 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "81": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 845, 862, 876, 870, 857, 845 ],
+          "all_points_y": [ 411, 426, 414, 402, 399, 411 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "82": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 765, 764, 787, 793, 765 ],
+          "all_points_y": [ 401, 424, 431, 401, 401 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "83": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 945, 921, 949, 970, 979, 943, 945 ],
+          "all_points_y": [ 497, 490, 472, 473, 489, 499, 497 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "84": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 949, 968, 968, 975, 955, 949 ],
+          "all_points_y": [ 501, 495, 496, 516, 526, 501 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "85": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 83, 83, 83, 83 ],
+          "all_points_y": [ 364, 364, 364, 364 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "86": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 84, 77, 113, 132, 131, 84 ],
+          "all_points_y": [ 364, 378, 384, 374, 367, 364 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "87": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 514, 542, 544, 555, 523, 513, 517, 514 ],
+          "all_points_y": [ 311, 320, 324, 314, 302, 308, 310, 311 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "88": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 616, 616, 616, 616 ],
+          "all_points_y": [ 613, 613, 613, 613 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "89": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 619, 641, 632, 591, 617, 619 ],
+          "all_points_y": [ 613, 621, 664, 666, 610, 613 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "90": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 884, 949, 946, 951, 930, 937, 906, 880, 875, 887, 887, 884 ],
+          "all_points_y": [ 377, 378, 378, 387, 398, 398, 396, 382, 382, 378, 375, 377 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "91": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 291, 309, 309, 337, 336, 336, 297, 296, 286, 287, 291 ],
+          "all_points_y": [ 427, 426, 428, 459, 454, 464, 448, 449, 437, 437, 427 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "92": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 312, 312, 306, 306, 334, 350, 320, 321, 312 ],
+          "all_points_y": [ 417, 418, 422, 422, 447, 437, 415, 415, 417 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "93": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 684, 684, 685, 706, 707, 693, 684 ],
+          "all_points_y": [ 469, 469, 476, 492, 470, 464, 469 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "94": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 558, 523, 561, 570, 557, 557, 552, 558 ],
+          "all_points_y": [ 328, 345, 346, 338, 328, 328, 331, 328 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "95": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 504, 505, 509, 530, 530, 504 ],
+          "all_points_y": [ 346, 345, 356, 357, 346, 346 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "96": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 517, 514, 537, 542, 543, 527, 517 ],
+          "all_points_y": [ 360, 368, 391, 389, 376, 359, 360 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "97": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 748, 729, 754, 797, 796, 808, 821, 807, 802, 748 ],
+          "all_points_y": [ 454, 465, 480, 527, 527, 534, 526, 518, 491, 454 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "98": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 672, 672, 689, 694, 692, 722, 716, 691, 672 ],
+          "all_points_y": [ 564, 564, 610, 616, 616, 611, 593, 560, 564 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "99": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 531, 570, 586, 606, 606, 603, 569, 527, 517, 531 ],
+          "all_points_y": [ 442, 458, 460, 477, 477, 484, 481, 472, 460, 442 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "100": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 515, 547, 544, 500, 521, 519, 518, 515 ],
+          "all_points_y": [ 401, 437, 446, 414, 403, 401, 401, 401 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "101": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 549, 517, 529, 562, 562, 562, 556, 547, 543, 549 ],
+          "all_points_y": [ 428, 399, 389, 407, 408, 421, 430, 425, 424, 428 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "102": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 561, 590, 587, 563, 560, 561 ],
+          "all_points_y": [ 521, 553, 573, 571, 553, 521 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "103": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 454, 429, 429, 437, 455, 465, 464, 460, 454 ],
+          "all_points_y": [ 352, 374, 374, 389, 375, 363, 367, 354, 352 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "104": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 394, 411, 469, 472, 412, 393, 394 ],
+          "all_points_y": [ 386, 377, 368, 386, 395, 389, 386 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "105": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 355, 370, 396, 400, 400, 383, 354, 352, 355 ],
+          "all_points_y": [ 359, 363, 376, 388, 388, 395, 372, 357, 359 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "106": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 471, 468, 465, 464, 476, 485, 493, 476, 468, 471 ],
+          "all_points_y": [ 480, 480, 491, 489, 512, 514, 504, 480, 480, 480 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "107": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 711, 711, 711, 711, 730, 732, 711 ],
+          "all_points_y": [ 168, 171, 175, 175, 175, 166, 168 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "108": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 935, 960, 962, 956, 935 ],
+          "all_points_y": [ 192, 184, 191, 197, 192 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "109": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 346, 289, 287, 287, 310, 310, 353, 350, 346 ],
+          "all_points_y": [ 360, 364, 370, 371, 377, 377, 377, 358, 360 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "110": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 471, 495, 487, 475, 468, 471 ],
+          "all_points_y": [ 413, 434, 444, 442, 419, 413 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk20.jpg100663": {
+    "fileref": "",
+    "size": 100663,
+    "filename": "junk20.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 21, 20, 73, 64, 17, 21 ],
+          "all_points_y": [ 306, 380, 345, 291, 302, 306 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 66, 25, 85, 66 ],
+          "all_points_y": [ 353, 378, 378, 353 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 144, 257, 271, 266, 173, 135, 144 ],
+          "all_points_y": [ 282, 260, 275, 297, 317, 291, 282 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 317, 317, 260, 329, 340, 317 ],
+          "all_points_y": [ 310, 310, 374, 382, 320, 310 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 473, 496, 559, 582, 483, 473 ],
+          "all_points_y": [ 283, 310, 372, 353, 269, 283 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "5": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 285, 285, 283, 319, 318, 285 ],
+          "all_points_y": [ 259, 227, 226, 235, 259, 259 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "6": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 326, 356, 372, 343, 322, 332, 326 ],
+          "all_points_y": [ 221, 197, 207, 233, 225, 218, 221 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "7": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 256, 264, 380, 386, 334, 315, 287, 256 ],
+          "all_points_y": [ 318, 305, 294, 323, 331, 307, 340, 318 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "8": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 102, 106, 120, 112, 102 ],
+          "all_points_y": [ 170, 182, 180, 164, 170 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "9": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 189, 197, 227, 217, 267, 286, 279, 189 ],
+          "all_points_y": [ 199, 216, 216, 208, 201, 184, 178, 199 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "10": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 398, 422, 443, 443, 421, 398, 391, 392, 398 ],
+          "all_points_y": [ 181, 185, 195, 196, 200, 191, 179, 182, 181 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "11": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 469, 516, 536, 540, 477, 469 ],
+          "all_points_y": [ 328, 324, 342, 358, 361, 328 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "12": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 290, 331, 388, 404, 403, 415, 419, 378, 309, 290 ],
+          "all_points_y": [ 264, 248, 270, 259, 259, 266, 295, 292, 276, 264 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "13": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 269, 269, 269, 266, 278, 303, 354, 289, 277, 269 ],
+          "all_points_y": [ 261, 261, 261, 265, 286, 299, 296, 266, 266, 261 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "14": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 409, 460, 461, 416, 400, 409 ],
+          "all_points_y": [ 222, 241, 238, 245, 240, 222 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "15": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 270, 260, 260, 272, 279, 279, 270 ],
+          "all_points_y": [ 155, 164, 174, 175, 171, 164, 155 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "16": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 159, 200, 150, 134, 159 ],
+          "all_points_y": [ 245, 262, 278, 267, 245 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "17": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 31, 31, 31, 52, 68, 75, 81, 75, 31 ],
+          "all_points_y": [ 234, 234, 248, 248, 236, 243, 240, 231, 234 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "18": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 306, 306, 307, 340, 349, 342, 326, 306 ],
+          "all_points_y": [ 184, 191, 191, 191, 178, 174, 185, 184 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "19": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 478, 480, 500, 499, 476, 478 ],
+          "all_points_y": [ 222, 220, 222, 228, 227, 222 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "20": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 418, 451, 452, 468, 478, 478, 478, 478, 417, 418 ],
+          "all_points_y": [ 173, 173, 175, 170, 175, 177, 180, 180, 178, 173 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "21": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 389, 396, 376, 361, 361, 371, 379, 378, 387, 389 ],
+          "all_points_y": [ 175, 178, 208, 197, 198, 191, 191, 183, 179, 175 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk15.jpg163086": {
+    "fileref": "",
+    "size": 163086,
+    "filename": "junk15.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 43, 58, 79, 135, 190, 208, 226, 246, 239, 219, 188, 142, 92, 59, 43, 43 ],
+          "all_points_y": [ 421, 424, 452, 468, 477, 493, 492, 468, 440, 429, 422, 406, 394, 396, 398, 421 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 30, 35, 64, 91, 109, 117, 130, 114, 96, 71, 30 ],
+          "all_points_y": [ 381, 399, 398, 396, 374, 365, 353, 338, 345, 353, 381 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 2, 2, 28, 46, 53, 51, 38, 23, 2 ],
+          "all_points_y": [ 336, 282, 290, 284, 297, 305, 308, 330, 336 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 3, 3, 79, 101, 111, 119, 129, 112, 104, 102, 102, 51, 35, 21, 12, 10, 3 ],
+          "all_points_y": [ 206, 157, 125, 122, 127, 127, 140, 145, 148, 158, 167, 188, 190, 188, 201, 209, 206 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 2, 35, 48, 56, 56, 35, 25, 2, 2 ],
+          "all_points_y": [ 218, 233, 256, 259, 277, 279, 285, 277, 218 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "5": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 8, 3, 20, 145, 160, 175, 180, 163, 153, 117, 94, 61, 30, 8 ],
+          "all_points_y": [ 144, 102, 92, 74, 86, 84, 101, 106, 122, 127, 119, 129, 145, 144 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "6": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 155, 155, 181, 214, 257, 267, 282, 290, 272, 272, 205, 186, 173, 168, 155 ],
+          "all_points_y": [ 185, 203, 228, 267, 289, 304, 300, 287, 269, 236, 163, 160, 165, 178, 185 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "7": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 107, 107, 132, 162, 186, 152, 153, 132, 107 ],
+          "all_points_y": [ 168, 152, 152, 158, 162, 181, 190, 185, 168 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "8": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 61, 79, 94, 111, 127, 134, 120, 89, 74, 69, 63, 63, 61 ],
+          "all_points_y": [ 280, 313, 325, 328, 320, 305, 284, 261, 256, 256, 257, 262, 280 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "9": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 61, 63, 76, 129, 183, 206, 211, 203, 173, 134, 86, 61 ],
+          "all_points_y": [ 521, 548, 564, 554, 528, 518, 506, 490, 493, 496, 505, 521 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "10": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 310, 310, 328, 368, 452, 462, 455, 407, 343, 320, 310 ],
+          "all_points_y": [ 454, 473, 477, 496, 505, 500, 462, 454, 450, 454, 454 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "11": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 244, 252, 267, 280, 290, 292, 284, 280, 267, 251, 244, 244 ],
+          "all_points_y": [ 398, 411, 412, 412, 402, 388, 348, 332, 325, 327, 345, 398 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "12": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 153, 172, 191, 205, 218, 211, 205, 188, 165, 153 ],
+          "all_points_y": [ 384, 401, 396, 373, 351, 330, 318, 320, 355, 384 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "13": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 114, 124, 135, 144, 137, 132, 120, 45, 23, 8, 8, 45, 79, 114 ],
+          "all_points_y": [ 266, 274, 275, 271, 252, 247, 229, 191, 186, 198, 213, 238, 259, 266 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "14": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 279, 317, 333, 348, 356, 348, 343, 295, 282, 272, 274, 279 ],
+          "all_points_y": [ 254, 294, 299, 305, 300, 284, 257, 221, 219, 228, 246, 254 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "15": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 300, 336, 353, 381, 386, 386, 378, 368, 341, 308, 302, 300 ],
+          "all_points_y": [ 317, 340, 332, 341, 341, 336, 335, 317, 305, 292, 302, 317 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "16": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 336, 343, 350, 373, 437, 452, 462, 465, 462, 452, 442, 421, 391, 381, 368, 366, 336 ],
+          "all_points_y": [ 368, 336, 333, 336, 358, 368, 376, 379, 391, 391, 401, 394, 365, 363, 373, 378, 368 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "17": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 361, 361, 378, 399, 414, 459, 459, 464, 472, 475, 473, 470, 454, 409, 381, 361 ],
+          "all_points_y": [ 381, 396, 421, 444, 450, 462, 477, 483, 485, 477, 467, 447, 426, 378, 363, 381 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "18": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 173, 176, 226, 246, 251, 247, 224, 205, 173 ],
+          "all_points_y": [ 148, 132, 97, 94, 101, 119, 145, 158, 148 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "19": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 203, 209, 226, 242, 266, 280, 290, 259, 246, 211, 214, 203 ],
+          "all_points_y": [ 84, 94, 92, 94, 84, 61, 43, 40, 40, 61, 78, 84 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "20": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 317, 323, 343, 379, 401, 399, 394, 369, 336, 317 ],
+          "all_points_y": [ 49, 35, 33, 45, 56, 71, 81, 76, 59, 49 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "21": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 274, 285, 302, 338, 355, 363, 356, 308, 285, 280, 274 ],
+          "all_points_y": [ 84, 94, 114, 129, 115, 114, 97, 79, 73, 73, 84 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "22": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 398, 389, 363, 327, 290, 300, 330, 398 ],
+          "all_points_y": [ 86, 101, 104, 87, 66, 48, 56, 86 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "23": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 249, 244, 251, 304, 330, 360, 371, 374, 355, 299, 249 ],
+          "all_points_y": [ 167, 193, 200, 200, 201, 200, 200, 183, 180, 165, 167 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "24": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 341, 341, 350, 371, 406, 427, 431, 426, 414, 399, 381, 355, 341 ],
+          "all_points_y": [ 134, 144, 147, 142, 129, 112, 102, 92, 91, 92, 107, 115, 134 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "25": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 426, 496, 533, 576, 589, 595, 579, 564, 483, 460, 444, 431, 426 ],
+          "all_points_y": [ 129, 163, 186, 190, 191, 176, 167, 147, 106, 91, 87, 101, 129 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "26": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 556, 562, 581, 622, 648, 645, 627, 600, 579, 556 ],
+          "all_points_y": [ 132, 122, 122, 145, 173, 198, 200, 183, 157, 132 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "27": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 665, 670, 706, 726, 724, 767, 785, 787, 665 ],
+          "all_points_y": [ 180, 208, 206, 214, 219, 221, 216, 193, 180 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "28": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 457, 455, 465, 487, 562, 576, 574, 549, 508, 457 ],
+          "all_points_y": [ 264, 254, 254, 236, 219, 223, 249, 264, 274, 264 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "29": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 493, 500, 551, 595, 610, 612, 586, 562, 493 ],
+          "all_points_y": [ 223, 205, 200, 200, 213, 224, 228, 219, 223 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "30": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 604, 609, 632, 655, 706, 727, 726, 701, 645, 610, 604 ],
+          "all_points_y": [ 231, 252, 252, 244, 244, 223, 211, 206, 213, 223, 231 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "31": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 368, 368, 371, 393, 412, 508, 556, 569, 586, 577, 551, 520, 473, 444, 401, 378, 368 ],
+          "all_points_y": [ 287, 312, 323, 323, 345, 371, 386, 373, 325, 285, 277, 279, 266, 261, 284, 285, 287 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "32": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 452, 468, 490, 518, 566, 607, 617, 604, 591, 523, 505, 483, 462, 449, 452 ],
+          "all_points_y": [ 407, 434, 459, 485, 492, 515, 510, 492, 460, 409, 384, 371, 381, 398, 407 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "33": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 587, 558, 515, 503, 518, 544, 576, 602, 605, 599, 587 ],
+          "all_points_y": [ 447, 439, 398, 381, 378, 391, 401, 416, 431, 444, 447 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "34": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 749, 742, 701, 693, 693, 653, 628, 614, 604, 609, 638, 668, 731, 749 ],
+          "all_points_y": [ 371, 399, 417, 426, 434, 447, 454, 460, 447, 424, 402, 366, 343, 371 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "35": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 694, 703, 719, 742, 793, 848, 868, 878, 873, 853, 845, 762, 711, 698, 694 ],
+          "all_points_y": [ 442, 459, 464, 454, 442, 429, 396, 389, 374, 378, 369, 394, 414, 422, 442 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "36": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 751, 755, 777, 795, 816, 869, 940, 955, 942, 906, 873, 873, 853, 835, 808, 764, 751 ],
+          "all_points_y": [ 340, 325, 325, 320, 317, 335, 353, 360, 401, 399, 388, 369, 376, 361, 378, 353, 340 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "37": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 496, 521, 587, 609, 630, 640, 635, 592, 544, 506, 496 ],
+          "all_points_y": [ 505, 529, 553, 571, 569, 548, 515, 513, 487, 485, 505 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "38": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 680, 652, 632, 635, 655, 678, 706, 696, 680 ],
+          "all_points_y": [ 566, 541, 518, 501, 498, 515, 543, 562, 566 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "39": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 693, 699, 718, 765, 869, 884, 901, 927, 919, 902, 871, 785, 699, 693 ],
+          "all_points_y": [ 516, 482, 478, 496, 521, 531, 554, 562, 582, 579, 582, 551, 529, 516 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "40": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 714, 722, 751, 785, 830, 849, 843, 760, 718, 714 ],
+          "all_points_y": [ 470, 465, 464, 472, 483, 506, 515, 492, 478, 470 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "41": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 843, 845, 858, 906, 922, 940, 940, 889, 861, 843 ],
+          "all_points_y": [ 459, 472, 498, 544, 541, 533, 518, 472, 455, 459 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "42": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 879, 912, 944, 958, 958, 919, 891, 879, 879 ],
+          "all_points_y": [ 416, 434, 454, 454, 409, 399, 402, 404, 416 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "43": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 713, 726, 734, 747, 764, 784, 803, 784, 759, 731, 713 ],
+          "all_points_y": [ 249, 272, 299, 313, 317, 320, 300, 262, 234, 226, 249 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "44": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 760, 782, 792, 803, 818, 802, 774, 759, 760 ],
+          "all_points_y": [ 117, 129, 137, 140, 135, 114, 102, 109, 117 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "45": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 460, 480, 472, 452, 422, 416, 424, 439, 460 ],
+          "all_points_y": [ 69, 59, 36, 5, 7, 21, 48, 64, 69 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  },
+  "junk14.jpg43817": {
+    "base64_img_data": "",
+    "file_attributes": {},
+    "filename": "junk14.jpg",
+    "fileref": "",
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 217, 222, 252, 312, 329, 327, 314, 291, 240, 217 ],
+          "all_points_y": [ 75, 87, 89, 76, 66, 39, 27, 26, 55, 75 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 308, 311, 336, 399, 409, 384, 353, 324, 308 ],
+          "all_points_y": [ 19, 11, 8, 25, 42, 52, 60, 37, 19 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 232, 238, 342, 368, 395, 395, 393, 373, 362, 352, 299, 291, 235, 232 ],
+          "all_points_y": [ 183, 168, 158, 168, 168, 181, 188, 193, 194, 204, 207, 193, 195, 183 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 134, 165, 293, 301, 293, 174, 161, 143, 138, 134 ],
+          "all_points_y": [ 220, 227, 231, 222, 198, 189, 199, 199, 210, 220 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 37, 39, 45, 76, 116, 132, 153, 149, 116, 56, 51, 37 ],
+          "all_points_y": [ 219, 227, 231, 229, 227, 217, 193, 164, 160, 195, 208, 219 ]
+        },
+        "region_attributes": { "name": "bottle" }
+      }
+    }
+  }
+}
