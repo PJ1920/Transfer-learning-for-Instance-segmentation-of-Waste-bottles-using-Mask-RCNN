@@ -48,7 +48,7 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
     python bottle/bottle.py train --dataset=/path/to/bottle/dataset --weights=<path to weight>
     
    eg;
-     # python bottle/bottle.py train --weights=logs/mask_rcnn_bottle_0100.h5 --dataset=dataset --layer='4+' --aug='Fliprl'
+     #  python bottle/bottle.py train --weights=logs/mask_rcnn_bottle_0100.h5 --dataset=dataset --layer='4+' --aug='Fliprl'
     
     Model Training optional Parameter:
     =================================
@@ -76,7 +76,7 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
     --video = Video file path to apply the color segmentation
     
    eg;
-     # python bottle/bottle.py segment --weights=logs/mask_rcnn_bottle_0100.h5 --imagefolder=images                                                          
+     #  python bottle/bottle.py segment --weights=logs/mask_rcnn_bottle_0100.h5 --imagefolder=images                                                          
 
 ## Requirements
 Python 3.7, TensorFlow-gpu 1.5, Keras 2.2.4 and other common packages listed in `requirements.txt` for linux Installation
