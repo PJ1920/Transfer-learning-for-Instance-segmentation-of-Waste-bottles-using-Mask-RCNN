@@ -44,7 +44,7 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
     # Train a new model starting from ImageNet weights
     python bottle.py train --dataset=/path/to/bottle/dataset --weights=imagenet
     
-    eg:
+   eg:
     python bottle/bottle.py train --weights=logs/mask_rcnn_bottle_0100.h5 --dataset=dataset --layer='4+' --aug='Fliprl'
     
     Model Training optional Parameter:

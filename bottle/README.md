@@ -13,6 +13,10 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
 
     # Train a new model starting from ImageNet weights
     python bottle.py train --dataset=/path/to/bottle/dataset --weights=imagenet
+    
+    # Train a new model starting from pre-trained bottle weights
+    python bottle/bottle.py train --dataset=/path/to/bottle/dataset --weights=<path to weight>
+
 
     Model Training optional Parameter:
     =================================
@@ -20,6 +24,8 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
     --epoch = " Enter no of epoch for training " default value set as '1'        
     --aug = "'Fliplr' or 'Flipud'" default set to None
 
+eg: python bottle/bottle.py train --weights=logs/mask_rcnn_bottle_0100.h5 --dataset=dataset --layer='4+' --aug='Fliprl'
+    python bottle/bottle.py train --weights=coco --dataset=dataset 
 
 
 # Apply color segmentation to bottles in an image
@@ -38,3 +44,6 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
     --imagefolder = Images folder name to apply the color segmentation
     --video = Video file path to apply the color segmentation
                                                             
+eg: python bottle/bottle.py segment --weights=logs/mask_rcnn_bottle_0100.h5 --image=images/junktest2.jpg
+    python bottle/bottle.py segment --weights=logs/mask_rcnn_bottle_0100.h5 --imagefolder=images
+    python bottle/bottle.py segment --weights=logs/mask_rcnn_bottle_0100.h5 --video=videos/plasticbottle.mov

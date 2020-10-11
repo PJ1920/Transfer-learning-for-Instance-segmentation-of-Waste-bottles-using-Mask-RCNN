@@ -1,0 +1,18 @@
+Cython                   0.29.20        
+h5py                     2.10.0         
+imgaug                   0.2.9          
+ipython[all]             7.15.0 or try 7.18.1          
+Keras                    2.2.4          
+matplotlib               3.2.2          
+numpy                    1.18.5         
+opencv-python            4.1.2.30 or 4.3.0.36      
+Pillow                   7.0.0  or 7.2.0      
+protobuf                 3.12.2         
+pycocotools              2.0.1                  
+scikit-image             0.16.2         
+scikit-learn             0.22.2.post1   
+scipy                    1.4.1                  
+tensorflow-gpu           1.15.0
+cudatoolkit              10.0.130
+
+

@@ -14,6 +14,18 @@ Usage: import the module (see Jupyter notebooks for examples), or run from
 
     # Train a new model starting from ImageNet weights
     python bottle/bottle.py train --dataset=/path/to/bottle/dataset --weights=imagenet
+    
+    # Train a new model starting from pre-trained bottle weights
+    python bottle/bottle.py train --dataset=/path/to/bottle/dataset --weights=<path to weight>
+    
+    eg:
+    python bottle/bottle.py train --weights=logs/mask_rcnn_bottle_0100.h5 --dataset=dataset --layer='4+' --aug='Fliprl'
+    
+    Model Training optional Parameter:
+    =================================
+    --layer = "'heads' or '4+' or '3+' or 'all' "
+    --epoch = " Enter no of epoch for training " default value set as '1'        
+    --aug = "'Fliplr' or 'Flipud'" default set to None
 
     # Apply color segmentation to an image
     python bottle/bottle.py segment --weights=/path/to/weights/file.h5 --image=<URL or path to file>
@@ -23,6 +35,10 @@ Usage: import the module (see Jupyter notebooks for examples), or run from
 
     # Apply color segmentation to video using the last weights you trained
     python bottle/bottle.py segment --weights=last --video=<URL or path to file>
+    
+    eg:
+    python bottle/bottle.py segment --weights=logs/mask_rcnn_bottle_0100.h5 --imagefolder=images
+    
 """
 
 import os
@@ -71,10 +87,10 @@ class BottleConfig(Config):
     NUM_CLASSES = 1 + 1  # Background + bottle
 
     # Number of training steps per epoch
-    STEPS_PER_EPOCH = 10
+    STEPS_PER_EPOCH = 1000
 
     # Skip detections with < 90% confidence
-    DETECTION_MIN_CONFIDENCE = 0.9 # chg for inference from 0.9 240820
+    DETECTION_MIN_CONFIDENCE = 0.9 # chg as per reqd
 
     
 ############################################################
@@ -235,8 +251,8 @@ def train(model):
     model.train(dataset_train, dataset_val,
                 learning_rate=config.LEARNING_RATE,
                 epochs=epochs,   # 1 or as per input
-                layers=layers,   #'heads' or '4+' or 'all'
-                augmentation=augmentation) 
+                layers=layers,   #'heads' or '3+' or '4+' or 'all'
+                augmentation=augmentation) # default None or 'Fliplr' or 'Flipup' 
 
     
     
@@ -381,7 +397,7 @@ def detect_and_color_segment(model, image_path=None, video_path=None, imagefolde
         # Save output
             IMAGEOUT_DIR= os.path.join(ROOT_DIR,"output/")            
             pic=(file_names[i]).split(".")[0]
-            file_name =  os.path.join(IMAGEOUT_DIR, str(i+1)+":"+ pic + "-segment_{:%Y%m%dT%H%M%S}.png".format(datetime.datetime.now()))
+            file_name =  os.path.join(IMAGEOUT_DIR, pic + "-segment_{:%Y%m%dT%H%M%S}.png".format(datetime.datetime.now()))
             skimage.io.imsave(file_name, segment)            
             print("Saved to output folder ", file_name)
             i=i+1
@@ -432,7 +448,7 @@ def detect_and_color_segment(model, image_path=None, video_path=None, imagefolde
                                   fps, (width, height))
         frames = []
         frame_count = 0
-
+        print(" Segmention in progress....")
         while True:
             ret, frame = vcapture.read()
             # Bail out when the video file ends
@@ -449,7 +465,7 @@ def detect_and_color_segment(model, image_path=None, video_path=None, imagefolde
             if len(frames) == BATCH_SIZE:
                 
                 results = model.detect(frames, verbose=0)
-                #print('Predicted')
+                print('Predicted')
                 for i, item in enumerate(zip(frames, results)):
                     frame = item[0]
                     r = item[1]
@@ -469,6 +485,7 @@ def detect_and_color_segment(model, image_path=None, video_path=None, imagefolde
               
                 
         vwriter.release()
+        print("... Segmentation Completed!")
         print("Saved to output folder ", file_name)
         
 ############################################################
