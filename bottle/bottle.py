@@ -252,7 +252,7 @@ def train(model):
                 learning_rate=config.LEARNING_RATE,
                 epochs=epochs,   # 1 or as per input
                 layers=layers,   #'heads' or '3+' or '4+' or 'all'
-                augmentation=augmentation) # default None or 'Fliplr' or 'Flipup' 
+                augmentation=augmentation) # 'Fliplr' or 'Flipup' or default None 
 
     
     
@@ -448,7 +448,7 @@ def detect_and_color_segment(model, image_path=None, video_path=None, imagefolde
                                   fps, (width, height))
         frames = []
         frame_count = 0
-        print(" Segmention in progress....")
+        print(" Segmentation in progress....")
         while True:
             ret, frame = vcapture.read()
             # Bail out when the video file ends
