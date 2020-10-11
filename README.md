@@ -4,12 +4,10 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
 
 The repository includes:
 * Source code of Mask R-CNN built on FPN and ResNet101.
-* Training code for MS COCO
-* Pre-trained weights for MS COCO and BOTTLE custom dataset
+* Training code 
+* Pre-trained weights for Bottle custom dataset
 * Jupyter notebooks to visualize the detection pipeline at every step
-* ParallelModel class for multi-GPU training
 * Evaluation as per MSCOCO metrics (AP)
-* Training on your own dataset
 
 
 * ([model.py](mrcnn/model.py), [utils.py](mrcnn/utils.py), [config.py](mrcnn/config.py)): These files contain the main Mask RCNN implementation. 
@@ -17,7 +15,7 @@ The repository includes:
 * bottle/inspect_bottle_data.ipynb  This notebook visualizes the different pre-processing steps to prepare the training data.
 * bottle/inspect_bottle_model_check.ipynb  This notebook goes in depth into the steps performed to detect and segment objects. It provides visualizations of every step of the pipeline.
 * bottle/inspect_bottle_weights.ipynb  This notebooks inspects the weights of a trained model and looks for anomalies and odd patterns.
-* bottle/model-videosegmentation.ipynb    This notebook contains video segmentation to mp4 file.
+* bottle/model-videosegmentation.ipynb    This notebook contains video segmentation.
 * bottle/Eval_model.ipynb     This notebook contains model evaluation and image segmentation 
 
 
