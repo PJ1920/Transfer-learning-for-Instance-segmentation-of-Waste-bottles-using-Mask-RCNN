@@ -35,7 +35,7 @@ Pre-trained weights for Bottle custom dataset added to the repository for using 
 
 The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps each), and using a batch size of 1.
 
-    # Train a new model starting from pre-trained COCO weights
+    # Train a new model starting from pre-trained COCO weights 
     python bottle/bottle.py train --dataset=/path/to/bottle/dataset --weights=coco
 
     # Resume training a model that you had trained earlier
@@ -101,6 +101,7 @@ To train or test on MS COCO, you'll also need:
   and the 35K [validation-minus-minival](https://dl.dropboxusercontent.com/s/s3tw5zcg7395368/instances_valminusminival2014.json.zip?dl=0)
   subsets. More details in the original [Faster R-CNN implementation](https://github.com/rbgirshick/py-faster-rcnn/blob/master/data/README.md).
   
+### Image and video segmentation 
 ![Bottle instance segmentation](assets/img2readme.png) 
 ![Bottle instance segmentation](assets/img1readme.png)
 ![Bottle instance segmentation](assets/img3readme.png)
