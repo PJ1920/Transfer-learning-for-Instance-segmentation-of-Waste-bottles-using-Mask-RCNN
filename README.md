@@ -78,11 +78,9 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
      python bottle/bottle.py segment --weights=logs/mask_rcnn_bottle_0100.h5 --imagefolder=images                                                          
 
 ## Requirements
-Python 3.7, TensorFlow-gpu 1.5, Keras 2.2.4 and other common packages listed in `requirements.txt`.
+Python 3.7, TensorFlow-gpu 1.5, Keras 2.2.4 and other common packages listed in `requirements.txt` for linux Installation
 
-
-
-## Installation
+## Installation 
 :1. Clone this repository
 2. Install dependencies
    ```bash
@@ -92,7 +90,7 @@ Python 3.7, TensorFlow-gpu 1.5, Keras 2.2.4 and other common packages listed in 
     ```bash
     python setup.py install
     ``` 
-3. Download pre-trained bottle weights (mask_rcnn_bottle.h5) for segmentation 
+3. To download pre-trained bottle weights (mask_rcnn_bottle_0100.h5) for segmentation from logs folder use the git lfs pull request.
 
 4. Run training or segmentation task from terminal.  
 
