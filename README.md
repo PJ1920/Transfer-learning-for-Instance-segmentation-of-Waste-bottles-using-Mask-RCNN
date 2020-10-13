@@ -83,7 +83,7 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
 Python 3.7, TensorFlow-gpu 1.5, Keras 2.2.4 and other common packages listed in `requirements.txt` for linux Installation
 
 ## Installation 
-:1. Clone this repository
+1. Clone this repository.
 2. Install dependencies
    ```bash
    pip install -r requirements.txt
