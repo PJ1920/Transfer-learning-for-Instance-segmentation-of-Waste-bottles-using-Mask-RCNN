@@ -17,6 +17,7 @@ The repository includes:
 * bottle/inspect_bottle_weights.ipynb  This notebooks inspects the weights of a trained model and looks for anomalies and odd patterns.
 * bottle/model-videosegmentation.ipynb    This notebook contains video segmentation.
 * bottle/Eval_model.ipynb     This notebook contains model evaluation and image segmentation 
+* bottle/bottle.py contains the code for training and segmentation.
 
 
 ## Step by Step Detection
