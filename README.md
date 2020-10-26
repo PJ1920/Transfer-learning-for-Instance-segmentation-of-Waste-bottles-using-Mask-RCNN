@@ -1,6 +1,6 @@
 # Mask R-CNN for Bottle Object Detection and Segmentation
 
-This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of bottle in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone. Code customised and coco weights adapted from Matterport, Mask R-CNN-{\url{https://github.com/matterport/Mask_RCNN}} for bottle segmentation training.
+This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of bottle in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone. The custom dataset images of bottles collected from the internet. The coco weights and code customised and adapted from Matterport, Mask R-CNN-{\url{https://github.com/matterport/Mask_RCNN}} for bottle segmentation training. 
 
 The repository includes:
 * Source code of Mask R-CNN built on FPN and ResNet101.
