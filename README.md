@@ -92,7 +92,7 @@ Python 3.7, TensorFlow-gpu 1.5, Keras 2.2.4 and other common packages listed in 
     ```bash
     python setup.py install
     ``` 
-3. Download pre-trained bottle weights (mask_rcnn_bottle_0100.h5) for segmentation from logs folder use git lfs pull as git clone doesn't download the lfs file completely.
+3. Download pre-trained bottle weights (mask_rcnn_bottle_0100.h5) for segmentation from logs folder use git lfs pull or download the file directly as git clone doesn't download the lfs file completely. Note: The file size is 244MB. 
 
 4. Run training or segmentation task from terminal.  
 
