@@ -19,7 +19,7 @@ Usage: import the module (see Jupyter notebooks for examples), or run from
     python bottle/bottle.py train --dataset=/path/to/bottle/dataset --weights=<path to weight>
     
     eg:
-    python bottle/bottle.py train --weights=logs/mask_rcnn_bottle_0100.h5 --dataset=dataset --layer='4+' --aug='Fliprl'
+    python bottle/bottle.py train --weights=logs/mask_rcnn_bottle_0100.h5 --dataset=dataset --layer='4+' --aug='Fliplr'
     
     Model Training optional Parameter:
     =================================
@@ -212,10 +212,10 @@ def train(model):
     print("Layers test1:",layers,epochs)
     if args.layer==None:
         layers='heads'
-        print("Layers testin:",layers,epochs)
+        print("Layers test:",layers,epochs)
     else:
         layers=args.layer
-        print("Layers testin1:",layers,epochs)
+        print("Layers test1:",layers,epochs)
     
     if args.layer == 'heads':
         layers = 'heads'
