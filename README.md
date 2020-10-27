@@ -49,7 +49,7 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
     python bottle/bottle.py train --dataset=/path/to/bottle/dataset --weights=<path to weight>
     
    eg;
-     #  python bottle/bottle.py train --weights=logs/mask_rcnn_bottle_0100.h5 --dataset=dataset --layer='4+' --aug='Fliprl'
+     #  python bottle/bottle.py train --weights=logs/mask_rcnn_bottle_0100.h5 --dataset=dataset --layer='4+' --aug='Fliplr'
     
     Model Training optional Parameter:
     =================================
