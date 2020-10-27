@@ -24,7 +24,7 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
     --epoch = " Enter no of epoch for training " default value set as '1'        
     --aug = "'Fliplr' or 'Flipud'" default set to None
     eg;
-    ## python bottle/bottle.py train --weights=logs/mask_rcnn_bottle_0100.h5 --dataset=dataset --layer='4+' --aug='Fliprl'
+    ## python bottle/bottle.py train --weights=logs/mask_rcnn_bottle_0100.h5 --dataset=dataset --layer='4+' --aug='Fliplr'
     ## python bottle/bottle.py train --weights=coco --dataset=dataset 
 
 
