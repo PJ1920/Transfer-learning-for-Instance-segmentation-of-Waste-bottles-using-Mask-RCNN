@@ -77,7 +77,7 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
     --video = Video file path to apply the color segmentation
     
    eg;
-     #  python bottle/bottle.py segment --weights=logs/mask_rcnn_bottle_0100.h5 --imagefolder=images                                                          
+     #  python bottle/bottle.py segment --weights=mask_rcnn_bottle.h5 --imagefolder=images                                                          
 
 ## Requirements
 Python 3.7, TensorFlow-gpu 1.5, Keras 2.2.4 and other common packages listed in `requirements.txt` for linux Installation
@@ -92,7 +92,7 @@ Python 3.7, TensorFlow-gpu 1.5, Keras 2.2.4 and other common packages listed in 
     ```bash
     python setup.py install
     ``` 
-3. Download pre-trained bottle weights (mask_rcnn_bottle_0100.h5) for segmentation from logs folder use git lfs pull or download the file directly as git clone doesn't download the lfs file completely. Note: The file size is 244MB. 
+3. Download pre-trained bottle weights (mask_rcnn_bottle.h5) from release section for segmentation. The model weight from logs folder is a git lfs file and git clone doesn't download the file completely. Note: The file size is 244MB. Use git lfs pull or download the file directly.
 
 4. Run training or segmentation task from terminal.  
 
