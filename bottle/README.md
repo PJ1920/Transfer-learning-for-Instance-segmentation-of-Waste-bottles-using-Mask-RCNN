@@ -48,3 +48,5 @@ The code in `bottle.py` is set to train for 1000K steps (1 epochs of 1000 steps 
     ## python bottle/bottle.py segment --weights=logs/mask_rcnn_bottle_0100.h5 --image=images/junktest2.jpg
     ## python bottle/bottle.py segment --weights=logs/mask_rcnn_bottle_0100.h5 --imagefolder=images
     ## python bottle/bottle.py segment --weights=logs/mask_rcnn_bottle_0100.h5 --video=videos/plasticbottle.mov
+    
+    #notebook opencv processing video segmentation code adapted from https://www.dlology.com/blog/how-to-run-object-detection-and-segmentation-on-video-fast-for-free/
